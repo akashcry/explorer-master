@@ -1,7 +1,7 @@
 {
   "chain_name": "initia",
-  "api": ["http://localhost:25717"],
-  "rpc": ["http://localhost:25757"],
+  "api": ["http://localhost:25718"],
+  "rpc": ["http://localhost:25759"],
   "snapshot_provider": "",
   "sdk_version": "0.45.5",
   "coin_type": "565",
