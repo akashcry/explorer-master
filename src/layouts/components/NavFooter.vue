@@ -22,7 +22,7 @@
     >
       <a
         class="link link-primary no-underline"
-        href="https://github.com/akashcry"
+        href="https://github.com/akashcry/explorer-master"
         target="noopener noreferrer"
         >Github</a
       >
