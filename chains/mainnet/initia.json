@@ -1,6 +1,6 @@
 {
   "chain_name": "initia",
-  "api": ["http://185.193.17.194:25718"],
+  "api": ["https://api.akashcry.uk.to/"],
   "rpc": ["https://rpc.akashcry.uk.to/"],
   "snapshot_provider": "",
   "sdk_version": "0.45.4",
