@@ -1,0 +1,27 @@
+{
+  "chain_name": "0g",
+  "api": ["https://rest.nodejumper.io/0gtestnet"],
+  "rpc": ["https://rpc.nodejumper.io:443/0gtestnet"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "564",
+  "min_tx_fee": "8000",
+  "assets": [
+    {
+      "base": "a0gi",
+      "symbol": "A0GI",
+      "exponent": "6",
+      "coingecko_id": "0g",
+      "logo": "/0g.jpg"
+    },
+    {
+      "base": "a0gi",
+      "symbol": "A0GI",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ],
+  "addr_prefix": "0g",
+  "logo": "/0g.jpg"
+}

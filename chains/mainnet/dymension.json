@@ -1,0 +1,26 @@
+{
+  "chain_name": "dymension",
+  "api": ["https://rest.nodejumper.io/dymensiontestnet"],
+  "rpc": ["https://rpc.nodejumper.io:443/dymensiontestnet"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "564",
+  "min_tx_fee": "8000",
+  "assets": [
+    {
+      "base": "dym",
+      "symbol": "DYM",
+      "exponent": "3",
+      "logo": "/dymension.jpg"
+    },
+    {
+      "base": "dym",
+      "symbol": "DYM",
+      "exponent": "3",
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ],
+  "addr_prefix": "0g",
+  "logo": "/dymension.jpg"
+}
