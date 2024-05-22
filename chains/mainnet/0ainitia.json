@@ -1,11 +1,11 @@
 {
   "chain_name": "initia",
-  "api": ["http://api.akashcry.uk.to"],
-  "rpc": ["http://rpc.akashcry.uk.to"],
+  "api": ["http://localhost:25717"],
+  "rpc": ["http://localhost:25757"],
   "snapshot_provider": "",
-  "sdk_version": "0.45.4",
-  "coin_type": "564",
-  "min_tx_fee": "8000",
+  "sdk_version": "0.45.5",
+  "coin_type": "565",
+  "min_tx_fee": "9000",
   "assets": [
     {
       "base": "init",
