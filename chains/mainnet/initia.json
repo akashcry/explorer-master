@@ -1,0 +1,27 @@
+{
+  "chain_name": "initia",
+  "api": ["http://185.193.17.194:25718"],
+  "rpc": ["http://185.193.17.194:25759"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "564",
+  "min_tx_fee": "8000",
+  "assets": [
+    {
+      "base": "init",
+      "symbol": "INIT",
+      "exponent": "6",
+      "coingecko_id": "initia",
+      "logo": "/initia.png"
+    },
+    {
+      "base": "init",
+      "symbol": "INIT",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ],
+  "addr_prefix": "initia",
+  "logo": "/initia.png"
+}
