@@ -1,0 +1,27 @@
+{
+  "chain_name": "babylon",
+  "api": ["https://babylon-testnet-api.polkachu.com"],
+  "rpc": ["https://babylon-testnet-rpc.polkachu.com"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.4",
+  "coin_type": "564",
+  "min_tx_fee": "8000",
+  "assets": [
+    {
+      "base": "bbn",
+      "symbol": "BBN",
+      "exponent": "6",
+      "coingecko_id": "babylon",
+      "logo": "/babylon.jpg"
+    },
+    {
+      "base": "bbn",
+      "symbol": "BBN",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ],
+  "addr_prefix": "babylon",
+  "logo": "/babylon.jpg"
+}

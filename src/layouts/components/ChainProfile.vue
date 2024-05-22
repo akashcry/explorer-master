@@ -41,7 +41,7 @@ function changeEndpoint(item: Endpoint) {
         <div
           class="text-xs text-gray-500 dark:text-gray-400 whitespace-nowrap hidden md:!block"
         >
-          {{ chainStore.connErr || chainStore.endpoint.address }}
+          http://api.akashcry.uk.to
         </div>
       </div>
     </label>
@@ -65,7 +65,8 @@ function changeEndpoint(item: Endpoint) {
         <div class="flex flex-col">
           <div class="flex items-center justify-between w-full">
             <div class="text-gray-500 dark:text-gray-200 capitalize">
-              {{ item.provider }}
+              akashcry
+              
             </div>
             <span
               v-if="item.address === chainStore.endpoint?.address"
@@ -73,7 +74,7 @@ function changeEndpoint(item: Endpoint) {
             />
           </div>
           <div class="text-gray-400 text-xs whitespace-nowrap">
-            {{ item.address }}
+             http://api.akashcry.uk.to
           </div>
         </div>
       </div>
